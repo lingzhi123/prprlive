@@ -1,0 +1,2 @@
+VIDEOCORE_HEADER_SEARCH_PATHS = ${PODS_ROOT}/boost
+VIDEOCORE_OTHER_LDFLAGS = -l"c++" -framework "AVFoundation" -framework "AudioToolbox" -framework "CFNetwork" -framework "CoreGraphics" -framework "CoreMedia" -framework "CoreVideo" -framework "Foundation" -framework "OpenGLES" -framework "VideoToolbox"

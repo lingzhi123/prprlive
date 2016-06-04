@@ -1,0 +1,8 @@
+pod 'RestKit', '~> 0.24.0'
+pod 'SimpleKeychain'
+pod 'AWSS3'
+pod 'VideoCore'
+pod 'SDWebImage', '~>3.7'
+pod 'SVPullToRefresh'
+pod 'PubNub', '~> 3.7.11'
+pod 'MZFormSheetController'

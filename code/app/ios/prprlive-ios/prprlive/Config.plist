@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PubNub</key>
+	<dict>
+		<key>publishKey</key>
+		<string></string>
+		<key>subscribeKey</key>
+		<string></string>
+	</dict>
+	<key>Twitter</key>
+	<dict>
+		<key>tweetURL</key>
+		<string></string>
+		<key>consumerSecret</key>
+		<string></string>
+		<key>consumerKey</key>
+		<string></string>
+	</dict>
+	<key>Amazon</key>
+	<dict>
+		<key>imagesBucket</key>
+		<string></string>
+		<key>streamBucket</key>
+		<string></string>
+		<key>secretAccessKey</key>
+		<string></string>
+		<key>accessKeyId</key>
+		<string></string>
+	</dict>
+	<key>Wowza</key>
+	<dict>
+		<key>password</key>
+		<string></string>
+		<key>username</key>
+		<string></string>
+		<key>application</key>
+		<string></string>
+		<key>port</key>
+		<string></string>
+		<key>host</key>
+		<string></string>
+	</dict>
+	<key>Feedback</key>
+	<dict>
+		<key>email</key>
+		<string></string>
+	</dict>
+	<key>Legal</key>
+	<dict>
+		<key>termsOfService</key>
+		<string></string>
+		<key>privacyPolicy</key>
+		<string></string>
+	</dict>
+	<key>API</key>
+	<dict>
+		<key>site</key>
+		<string></string>
+		<key>host</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
